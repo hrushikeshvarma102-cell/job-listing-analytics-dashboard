@@ -36,6 +36,7 @@ The dashboard provides insights into:
 📈 Salary trends
 📊 Job listing statistics
 ✨ Features
+
 🕷️ Web Scraping
 Collects job listing information.
 Extracts relevant job-related fields.
@@ -45,12 +46,14 @@ Handles missing values.
 Removes duplicate records.
 Cleans inconsistent data.
 Converts columns into appropriate data types.
+
 ⚙️ Data Processing
 Processes compensation/salary information.
 Processes experience levels.
 Processes work modes.
 Creates salary categories.
 Prepares datasets for analysis.
+
 📊 Interactive Dashboard
 
 The Streamlit dashboard provides:
@@ -64,12 +67,14 @@ Salary analysis
 Salary categories
 Seniority vs. salary analysis
 Filtered job database
+
 🎛️ Interactive Filters
 
 Users can filter the dashboard based on:
 
 Work Mode
 Experience Level
+
 🛠️ Technologies Used
 Technology	Purpose
 🐍 Python	Core programming
@@ -166,7 +171,9 @@ Follow the steps below to run this project on your computer.
 
 Open PowerShell / CMD / Terminal and run:
 
-git clone https://github.com/hrushikeshvarma102-cell/job-listing-analytics-dashboard.git
+git clone https://github.com/hrushikeshvarma102-cell/job-listing-analytics-dashboard
+
+
 2️⃣ Navigate to the Project Folder
 cd job-listing-analytics-dashboard
 
@@ -198,7 +205,6 @@ Windows:
 python -m venv venv
 
 This creates:venv/
-
 
 
 4️⃣ Activate Virtual Environment
