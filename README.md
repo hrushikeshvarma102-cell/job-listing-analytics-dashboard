@@ -120,7 +120,7 @@ raw_jobs_dataset.csv
 
 Run:
 
-python scrape_jobs.py
+'''python scrape_jobs.py'''
 
 
 
@@ -142,7 +142,7 @@ processed_jobs_dataset.csv
 
 Run:
 
-python process_and_analyze.py
+'''python process_and_analyze.py'''
 
 
 
@@ -158,7 +158,7 @@ Streamlit Dashboard
 
 Run:
 
-streamlit run app.py
+'''streamlit run app.py'''
 
 
 
@@ -202,7 +202,7 @@ Creating a virtual environment is recommended so that project dependencies stay 
 
 Windows:
 
-python -m venv venv
+'''python -m venv venv'''
 
 This creates:venv/
 
@@ -219,7 +219,7 @@ After activation, you should see something similar to:
 
 
 5️⃣ Upgrade pip
-python -m pip install --upgrade pip
+'''python -m pip install --upgrade pip'''
 📦 Install Dependencies
 
 6️⃣ Install Required Packages
@@ -228,7 +228,7 @@ The project dependencies are stored in requirements.txt.
 
 Run:
 
-pip install -r requirements.txt
+'''pip install -r requirements.txt'''
 
 The main packages include:
 
@@ -242,7 +242,7 @@ beautifulsoup4
 
 After installing the dependencies, run:
 
-python scrape_jobs.py
+'''python scrape_jobs.py'''
 
 The scraper collects the job listing data.
 
