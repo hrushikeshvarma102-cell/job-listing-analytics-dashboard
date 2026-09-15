@@ -267,7 +267,7 @@ Streamlit will start a local server.
 
 You can normally access the application through:
 
-http://localhost:8501
+http://localhost:xxxx
 
 
 
